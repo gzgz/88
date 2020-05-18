@@ -1,13 +1,13 @@
 [无线新闻](
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1589762222~exp=1589848622~acl=/newslive/smil:mobile_inews.smil/*~hmac=dbacb2a0fb5b453d46db48431426a12d1c4df8c7b3d9dc651f3c94fc9475a21a
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1589765821~exp=1589852221~acl=/newslive/smil:mobile_inews.smil/*~hmac=e862ee4a9b2d296e2c2e2b18b3cb5ba931ef3fb3fa301cb1ada72f9360528d51
 ) &emsp; [无线财经](
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1589762222~exp=1589848622~acl=/newslive/smil:mobile_finance.smil/*~hmac=5d5afb61465214943c26817e9d60c8453d6032afc735b7c1dd0b72967be192b6
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1589765821~exp=1589852221~acl=/newslive/smil:mobile_finance.smil/*~hmac=6fdf86d6bf024ebe0a37a3692f5723b035ab1c2c83a1c14279753f6fb5c8984c
 ) &emsp; 
 
-[无线新闻0842](
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1589762222~exp=1589848622~acl=/newslive/smil:mobile_inews.smil/*~hmac=dbacb2a0fb5b453d46db48431426a12d1c4df8c7b3d9dc651f3c94fc9475a21a
-)&emsp;[无线财经0842](
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1589762222~exp=1589848622~acl=/newslive/smil:mobile_finance.smil/*~hmac=5d5afb61465214943c26817e9d60c8453d6032afc735b7c1dd0b72967be192b6
+[无线新闻0942](
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1589765821~exp=1589852221~acl=/newslive/smil:mobile_inews.smil/*~hmac=e862ee4a9b2d296e2c2e2b18b3cb5ba931ef3fb3fa301cb1ada72f9360528d51
+)&emsp;[无线财经0942](
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1589765821~exp=1589852221~acl=/newslive/smil:mobile_finance.smil/*~hmac=6fdf86d6bf024ebe0a37a3692f5723b035ab1c2c83a1c14279753f6fb5c8984c
 ) [.](
 http://hk4-edge18-1.edgeware.tvb.com:80/session/49f8b65e-e410-11e9-a4fe-005056b1026a/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=631ccc498ddf99fc611b5d8b3b79a9ba_1569995822_1569995822
 )[.](
