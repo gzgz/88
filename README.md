@@ -31,4 +31,16 @@ http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
 http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292201.m3u8
 ) &emsp;
 
-[湖南](http://39.135.253.15/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8)&emsp;[浙江](http://39.135.253.47/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8)&emsp;[东方](http://39.134.52.184/wh7f454c46tw3863289019_672360514/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225976/index.m3u8?icpid=88888888&RTS=1527603471&from=1&ocs=2_39.134.52.184_80&hms_devid=63)&emsp;[江苏](http://m.iptv802.com/?act=play&token=ef05494418911b5505071cb09e5eb6da&tid=ws&id=2)&emsp;[深圳](http://m.iptv802.com/?act=play&token=f433afba2e992d304a5c86796d2987ed&tid=ws&id=6)&emsp; [北京](http://m.iptv802.com/?act=play&token=4bb2d881d4e10ed4be9de4654bb9562a&tid=ws&id=5)&emsp; 
+[湖南](
+http://m.iptv805.com/?act=play&token=a06c0f1ce5582a6fa535e998b484ee1e&tid=ws&id=1
+) &emsp;[浙江](
+http://m.iptv805.com/?act=play&token=1545c6c574f510afeaff0efe4dad7a89&tid=ws&id=3
+) &emsp; [东方](
+http://m.iptv805.com/?act=play&token=8794c1dddd9d1d2f38b76e11e1d6d9b6&tid=ws&id=4
+) &emsp; [江苏](
+http://m.iptv805.com/?act=play&token=93398d1e6391581ba1c2040dc386e15f&tid=ws&id=2
+) &emsp; [北京](
+http://m.iptv805.com/?act=play&token=a24dcdac325b3598deee64ad4ca904e7&tid=ws&id=5
+) &emsp; [深圳](
+http://m.iptv805.com/?act=play&token=9b4fca10f6225b831f9d3eed0e7bffb0&tid=ws&id=6
+) 
