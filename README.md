@@ -2,7 +2,7 @@
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1605628682~exp=1605715082~acl=/newslive/smil:mobile_inews.smil/*~hmac=65b22faf756426eb635e78b7cf6d2d4295936e071f0e7a423bcd3e623a3f2aca
 ) &emsp; [无线财经](
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1605628570~exp=1605714970~acl=/newslive/smil:mobile_finance.smil/*~hmac=d8b3a2be5820687bf194446064452617a161592fbc7c9c284e44ef4d8abfa77f
-) &emsp; [.](
+) &emsp; [无线](
 https://pullhls3948069e.live.126.net/live/fffac91d29cd60850e908dff01dba9a7/playlist.m3u8
 ) &emsp;[新页](
 https://news.tvb.com/live/inews)  [财页](https://news.tvb.com/live/j5_ch85)
@@ -17,19 +17,34 @@ http://m.iptv802.com/?act=play&token=43321b505ce8074e5e39ee8b2453eb06&tid=gt&id=
 http://m.iptv805.com/?act=play&token=bfe95791aeca76dd96a19075cb8a9ddb&tid=gt&id=31
 )
 
-[地址页面](http://m.iptv223.com/?tid=gt&t=20200316) &emsp;  [央财](
+[地址页面](
+http://m.iptv223.com/?tid=gt&t=20200316
+)&emsp; [央财](
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-) &emsp;  [湖](
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296203.m3u8
-) &emsp;  [浙](
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295503.m3u8
-) &emsp;  [东](
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8
-) &emsp;  [江](
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
-) &emsp;  [深](
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292201.m3u8
-) &emsp;
+)&emsp; [央2](
+http://m.iptv805.com/?act=play&token=8fb227edb4d624654c4af6c7a35939b0&tid=ys&id=2
+)&emsp; [南方](
+http://m.iptv805.com/?act=play&token=41f5e920475726e4b4ad492e15131e77&tid=ws&id=38
+)&emsp; [珠江2](
+http://m.iptv805.com/?act=play&token=62b82f02d250f344703f6193dedc9e44&tid=ws&id=39
+)&emsp; [珠江](
+http://nclive.grtn.cn/zjpd/playlist.m3u8
+)
+
+
+[湖南](
+http://140.207.241.2:8080/live/program/live/hnwshd/2300000/mnf.m3u8
+) &emsp;[浙江](
+http://39.135.253.47/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8
+) &emsp; [东方](
+http://140.207.241.2:8080/live/program/live/hddfws/2300000/mnf.m3u8
+) &emsp; [江苏](
+http://140.207.241.2:8080/live/program/live/jswshd/2300000/mnf.m3u8
+) &emsp; [北京](
+http://140.207.241.2:8080/live/program/live/bjwshd/2300000/mnf.m3u8
+) &emsp; [深圳](
+http://140.207.241.2:8080/live/program/live/szwshd/2300000/mnf.m3u8
+) 
 
 [湖南](
 http://m.iptv805.com/?act=play&token=a06c0f1ce5582a6fa535e998b484ee1e&tid=ws&id=1
@@ -44,3 +59,4 @@ http://m.iptv805.com/?act=play&token=a24dcdac325b3598deee64ad4ca904e7&tid=ws&id=
 ) &emsp; [深圳](
 http://m.iptv805.com/?act=play&token=9b4fca10f6225b831f9d3eed0e7bffb0&tid=ws&id=6
 ) 
+
