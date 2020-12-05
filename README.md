@@ -1,7 +1,7 @@
 [无线新](
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1607159719~exp=1607246119~acl=/newslive/smil:mobile_inews.smil/*~hmac=5123577ee73965736043e295db8392547f4e20ba5fc9fb2d05f5173d56d96355
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1607183732~exp=1607270132~acl=/newslive/smil:mobile_inews.smil/*~hmac=4acedaafea11fe594469c0b7cb3ebb2ecde3d3574ae4e3166d6a2acf9ee235d4
 ) &emsp; [无线财](
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1607159796~exp=1607246196~acl=/newslive/smil:mobile_finance.smil/*~hmac=f2aa4a11ece2d38b6ee5010e7f26f32b2beb1191a9b909a6bbe2d9bd99b6ca3c
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1607183773~exp=1607270173~acl=/newslive/smil:mobile_finance.smil/*~hmac=eeb703b587a2918bc0e65134f1f1cc6190b5ba340a750b1907bb036b9a5a586a
 ) &emsp; [无线](
 https://pullhls3948069e.live.126.net/live/43d6557003b520ea740a11840443c498/playlist.m3u8
 ) &emsp;[新页](
