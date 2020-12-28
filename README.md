@@ -1,5 +1,5 @@
 [无线新](
-https://3gr3dymt1goanhqjtfa4uo.ourdvsss.com/pullhls3948069e.live.126.net/live/3e83e829372c535d784e324250fdc68f/playlist.m3u8?wshc_tag=0&wsts_tag=5fe99ece&wsid_tag=78e68cf5&wsiphost=ipdbm
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1609146014~exp=1609232414~acl=/newslive/smil:mobile_inews.smil/*~hmac=01eb5fd1cb6f04266333768063f6b07d2a6370c14882a82e5f4aad4d3b82bc04
 ) &emsp; [无线财](
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1609145825~exp=1609232225~acl=/newslive/smil:mobile_finance.smil/*~hmac=fd61d1b96f6d8524b16177888abccd018fde10e1aa75475e1906fb0be2255e88
 ) &emsp; [无线](
