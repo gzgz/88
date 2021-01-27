@@ -1,9 +1,9 @@
 [无线新](
-https://1grhdgmt1goanhcjtghzdqqy.ourdvsss.com/pullhls3948069e.live.126.net/live/ad90675c54cbcfc393285373a9a028eb/playlist.m3u8?wshc_tag=1&wsts_tag=6010017a&wsid_tag=78e6665e&wsiphost=ipdbm
+https://3gr3dymt1goanhqjtfa5dy.ourdvsss.com/pullhls3948069e.live.126.net/live/db17b16c57a5284de708c23fa580aa8a/playlist.m3u8?wshc_tag=0&wsts_tag=6010da3a&wsid_tag=78e64d2f&wsiphost=ipdbm
 ) &emsp; [无线财](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1611661444~exp=1611747844~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=5887ddbd084afa2cf20539fdc4bc2925411ef20676e6b178bf6b6b8fb49c738a&p=3320
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1611716927~exp=1611803327~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=c6cb6761574a06a79adc94b8dc3b18cd7520a7ed043bb332a9ad63ccaeaafcc6&p=3320
 ) &emsp; [无线](
-https://pullhls3948069e.live.126.net/live/59ff07e31e098823abe9f4f05208e60b/playlist.m3u8
+https://pullhls3948069e.live.126.net/live/928f931c1e4d6626f2d4c6c9363d1106/playlist.m3u8
 ) &emsp;[新页](
 https://news.tvb.com/live/inews)  [财页](https://news.tvb.com/live/j5_ch85)
 
