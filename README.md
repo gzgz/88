@@ -1,13 +1,13 @@
 [无线新](
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614006315~exp=1614092715~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=c7baad27fdf2f2bde018fc27285de13261721469ce0789ee820a34dd3c759019&p=3324
 )&emsp;[新](
-https://pullhls3948069e.live.126.net/live/9213fd1cfe7c3d93497ca6f0c230adfa/playlist.m3u8
+https://pullhls3948069e.live.126.net/live/5786dfdaeec909b5d1153a3266cb7168/playlist.m3u8
 )&emsp;[无线财](
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614006180~exp=1614092580~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=49a86795579329fac3ae3355f3951af1a50149cccc01529b7e3b53e88cc79380&p=3324
 )&emsp;[无线](
-https://pullhls3948069e.live.126.net/live/ca5045c97ce32fd910a8038a0533b3ca/playlist.m3u8
+https://pullhls3948069e.live.126.net/live/54804898c0ebe12650213aafd85c1967/playlist.m3u8
 )&emsp;[有线](
-https://pullhls3948069e.live.126.net/live/fa4ba46a088a4c4f1bbc5fa752813e27/playlist.m3u8
+https://pullhls3948069e.live.126.net/live/c0a68700a3fdbe354a55ecb9a803462c/playlist.m3u8
 )&emsp;[新](
 https://news.tvb.com/live/inews
 )  [财](
