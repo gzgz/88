@@ -28,9 +28,9 @@ http://m.iptv805.com/?act=play&token=1dee9bb6bb667cca841930981d4c5511&tid=gt&id=
 http://m.iptv223.com/?tid=gt&t=20200316
 )
 
-[央财](
+[央](
 https://tv.cctv.com/live/cctv2/
-)&emsp; [央财2](
+)&emsp; [央2](
 http://m.iptv805.com/?act=play&token=8fb227edb4d624654c4af6c7a35939b0&tid=ys&id=2
 )&emsp; [南方](
 http://nclive.grtn.cn/tvs2/playlist.m3u8
