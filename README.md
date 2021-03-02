@@ -28,13 +28,13 @@ http://m.iptv805.com/?act=play&token=1dee9bb6bb667cca841930981d4c5511&tid=gt&id=
 http://m.iptv223.com/?tid=gt&t=20200316
 )
 
-[央](
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
-)&emsp; [央2](
+[央财](
+https://tv.cctv.com/live/cctv2/
+)&emsp; [央财2](
 http://m.iptv805.com/?act=play&token=8fb227edb4d624654c4af6c7a35939b0&tid=ys&id=2
-)&emsp; [南](
+)&emsp; [南方](
 http://nclive.grtn.cn/tvs2/playlist.m3u8
-)&emsp; [南2](
+)&emsp; [南方2](
 http://m.iptv805.com/?act=play&token=41f5e920475726e4b4ad492e15131e77&tid=ws&id=38
 )&emsp; [珠江](
 http://nclive.grtn.cn/zjpd/playlist.m3u8
@@ -69,3 +69,5 @@ http://m.iptv805.com/?act=play&token=a24dcdac325b3598deee64ad4ca904e7&tid=ws&id=
 )&emsp;[深圳](
 http://m.iptv805.com/?act=play&token=9b4fca10f6225b831f9d3eed0e7bffb0&tid=ws&id=6
 ) 
+
+手机用"夸克"浏览器，在"工具箱"->"UA设置"->"设置浏览器标识"为"iphone"后， 可打开第二行"无线新2 无线财2 无线2 有线2" 四个地址观看
