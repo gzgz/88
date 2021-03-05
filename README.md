@@ -1,9 +1,9 @@
 [无线新](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614873571~exp=1614959971~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=573d67c2caaee837c989059196594da0caa18a3c52b48810f1d51940b2796eea&p=3324
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614955727~exp=1615042127~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=74d71332a3fc2f08ffb2ba04b0d8b0475925832ea3c42e60fea82e6dadf1a457&p=3324
 )&emsp;[新](
 https://pullhls3948069e.live.126.net/live/2efa5797ac5e7e89585101f036a70f21/playlist.m3u8
 )&emsp;[无线财](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614873467~exp=1614959867~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=dcf063763943828630e48e929311dbb655338dafe138dc9fe493ccc0cff6f7ae&p=3324
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1614955672~exp=1615042072~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/default/__f/*~hmac=a905b96cf76f701d2645b53eae684270193c64a281ba22e12c45bfa2b3cf9c05&p=3324
 )&emsp;[无线](
 https://pullhls3948069e.live.126.net/live/b2eb4c0854a2493cb4240fa8eccd91fc/playlist.m3u8
 )&emsp;[有线](
