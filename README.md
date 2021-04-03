@@ -1,5 +1,5 @@
 [无线新](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617376050~exp=1617462450~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=c32ad4a8afd32a0ce780fd715c46cfdf267d25cfeec9b2589b1b059aade4361f&p=3324
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1617463613~exp=1617550013~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=353a8811a02d08f103509fb3607b8f78573e4647e65d44e0bbc8ec7a1eeae467&p=3324
 )&emsp;[新](
 http://pullhls3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8/playlist.m3u8
 )&emsp;[无线财](
