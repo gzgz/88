@@ -7,7 +7,7 @@ http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__o
 )&emsp;[无线](
 http://pullhls3948069e.live.126.net/live/ad385681de9d7da018e5f9a22f7a0646/playlist.m3u8
 )&emsp;[有线](
-http://pullhls3948069e.live.126.net/live/dac2290bd85c27b7e6bc4f29824acdc9/playlist.m3u8
+http://pullhls3948069e.live.126.net/live/af433d5830892be1e77621352d537e1d/playlist.m3u8
 )&emsp;[新](
 https://news.tvb.com/live/inews
 )  [财](
