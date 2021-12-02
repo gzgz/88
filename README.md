@@ -5,7 +5,7 @@ http://pullhls3948069e.live.126.net/live/7853b207f04b97b01940343a341898b8/playli
 )&emsp;[无线财](
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1638374302~exp=1638460702~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=7af9b5763e1aa990d151006a05751ad0a118ef2fbd0138cdabeaaf5e4e2f2f57&p=3324
 )&emsp;[无线](
-http://pullhls3948069e.live.126.net/live/cfe0dec8532f5feb81d266ca52b18f45/playlist.m3u8
+http://pullhls3948069e.live.126.net/live/e2e9633fdd8f236f75255aa6a96c680d/playlist.m3u8
 )&emsp;[有线](
 http://pullhls3948069e.live.126.net/live/9c7c4ce67162172998930a16f73d0d0c/playlist.m3u8
 )&emsp;[新](
