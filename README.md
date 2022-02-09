@@ -7,7 +7,7 @@ http://pullhls3948069e.live.126.net/live/f78db305f075244c168a3b4b10a7044b/playli
 )&emsp;[无线](
 http://pullhls3948069e.live.126.net/live/76735a22854cec2e4b94476659808c00/playlist.m3u8
 )&emsp;[有线](
-http://pullhls3948069e.live.126.net/live/b846f185c85bbe738901860f62c5c93a/playlist.m3u8
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 )&emsp;[新](
 https://news.tvb.com/live/inews
 )  [财](
