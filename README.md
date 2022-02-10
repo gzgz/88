@@ -5,7 +5,7 @@ http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__o
 )&emsp;[无线财](
 http://pullhls3948069e.live.126.net/live/11837c186c9419f97c7cb9774925fb2a/playlist.m3u8
 )&emsp;[无线](
-http://pullhls3948069e.live.126.net/live/76735a22854cec2e4b94476659808c00/playlist.m3u8
+http://pullhls3948069e.live.126.net/live/0026c737ff6e5ee936209867691777cb/playlist.m3u8
 )&emsp;[有线](
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 )&emsp;[新](
