@@ -3,7 +3,7 @@ http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__o
 )&emsp;[新](
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1648138137~exp=1648224537~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=77babcfe0e18cc025c998f29919c28ce01dcd87baaea8c9135e624dbd0e52946&p=3324
 )&emsp;[无线财](
-http://pull-hls.ls.eyunmy.com/vod/b0393eeba52415e4ef5b566f878fa090/playlist.m3u8
+http://iptv.tvfix.org/hls/jade.m3u8
 )&emsp;[无线](
 https://pullhls3948069e.live.126.net/live/eeb7c6cee04abdbaed5ce6b8735b29f6/playlist.m3u8
 )&emsp;[有线](
