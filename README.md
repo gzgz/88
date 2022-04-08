@@ -1,7 +1,7 @@
 [无线新](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1649347985~exp=1649434385~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=1134856af8419f1930df629ceca891a9a4fc7683f95540d7ecfb66c43532cd4a&p=3324
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1649434258~exp=1649520658~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=445dac7951d61807b5509f1367f128eeb7c1b9e9b294739d865f4a762db42c97&p=3324
 )&emsp;[新](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1649348004~exp=1649434404~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=a966fc24b3f611274c7304f1886e5eddbea6ccd0de422999851ded9915927273&p=3324
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1649434246~exp=1649520646~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=19570968f9b98ab1da9cb4c71c1be96ad3bf6759830310f8ed82565602b0fffd&p=3324
 )&emsp;[无线财](
 http://iptv.tvfix.org/hls/jade.m3u8
 )&emsp;[无线](
