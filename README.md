@@ -1,11 +1,11 @@
 [无线新](
-http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1650296239~exp=1650382639~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=1dae25cd42239b12a6012eddc7083f705fe2e3852817cf516c28eef75940874b&p=3324
+http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1650364880~exp=1650451280~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=427ae1a52e8c46e0eff00e7026cbf1aa03c19b0aa51b42aea62f121b8e9b0de1&p=3324
 )&emsp;[新](
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1650296277~exp=1650382677~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=e91bd706b814b761525b074d47680786e14e8aad61a14b8dcf73c49f65a5ee81&p=3324
 )&emsp;[无线财](
-https://pull-hls-l1.ixigua.com/live/efebd03af04b82b9bb790eae02bb66e2/playlist.m3u8
+https://pull-hls-l1.ixigua.com/live/cab66ef7df8534c8fa198e4f76ca215e/playlist.m3u8
 )&emsp;[无线](
-https://pull-hls-l1.ixigua.com/live/d0b0b85937191dbb6509a3de96f8b7e6/playlist.m3u8
+https://pull-hls-l1.ixigua.com/live/f757672a8f5b677225729136d5cac10e/playlist.m3u8
 )&emsp;[有线](
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 )&emsp;[新](
