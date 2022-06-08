@@ -3,7 +3,7 @@ http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__o
 )&emsp;[新](
 http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1654666868~exp=1654753268~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=58c1c01d99f18e7f12ea8e8acc3eafdae7448ff50b719ec8d1cf59cb0c617231&p=3324
 )&emsp;[无线财](
-https://t9a.ggiptv.com/live/tvb/index.m3u8?session=s4b4s5z5nz6ftwep9baetsxst2g0d3ee
+https://t16a.ggiptv.com/live/tvb/index.m3u8?session=g7xyd37gucvv5z87c7l3p6qdl885xt1t
 )&emsp;[无线](
 https://pull-hls-l1.ixigua.com/live/a43eaf79c4a448f682a42b5982f94bbd/playlist.m3u8
 )&emsp;[有线](
