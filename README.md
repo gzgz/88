@@ -1,5 +1,5 @@
 [无线新](
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673625435~exp=1673711835~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=de6ab3a4de22647bc467f27e9d702ad65a02049bb19ac5edc0e9f558c4051670&p=3139
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673696864~exp=1673783264~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=90b4ad31abdd98be0438a3e5b41d9174d76788db5fb7e72ed9ec822e9ba588f7&p=3139
 )&emsp;[新](
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673626135~exp=1673712535~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=3af7884f57aaaa8ed1a1bfae7cc78682540baabbf93b0087f0649b113be9ab2e&p=3139
 )&emsp;[无线财](
