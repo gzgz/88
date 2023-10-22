@@ -1,7 +1,7 @@
 [无线新](
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1697904285~exp=1697990685~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=33fd4ad163167ba64bdae6b0416cb4df05ec4480787695a80b2e77ed141bf30b&p=3139
+https://edgeware-live2.edgeware.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?sig=c8b6c638f47b6c90db511236b7fcf109&ext_start_limit=1698078270&int_start_limit=1698078270&ts=1698078270&c=multicdn&p=3324&mode=admarker,ticks
 )&emsp;[新](
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1697904850~exp=1697991250~acl=/__cl/slocalr2625/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=437c62101eb80352a37bc0ebbc24680a8c2262e5eb25b67b7f38a06dc63a6384&p=3139
+https://edgeware-live2.edgeware.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?sig=085f6f9a7f4491df271e702bdb7fea24&ext_start_limit=1698078284&int_start_limit=1698078284&ts=1698078284&c=multicdn&p=4092&mode=admarker,ticks
 )&emsp;[无线财](
 https://everydaytv.top/play-2-7-0.html
 )&emsp;[无线](
