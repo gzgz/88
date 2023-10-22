@@ -1,7 +1,7 @@
 [无线新](
-https://edgeware-live2.edgeware.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?sig=c8b6c638f47b6c90db511236b7fcf109&ext_start_limit=1698078270&int_start_limit=1698078270&ts=1698078270&c=multicdn&p=3324&mode=admarker,ticks
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1697991867~exp=1698078267~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=d5273e532dee8f842b471daf41035bafcf5c178507ae40dad1e46c53f2abbd0f&p=3139
 )&emsp;[新](
-https://edgeware-live2.edgeware.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?sig=085f6f9a7f4491df271e702bdb7fea24&ext_start_limit=1698078284&int_start_limit=1698078284&ts=1698078284&c=multicdn&p=4092&mode=admarker,ticks
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1697991851~exp=1698078251~acl=/__cl/slocalr2625/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=7527cd1a47962e5be0d974b996358c93adf16e128c1df99c3af94c79d4a62b88&p=3139
 )&emsp;[无线财](
 https://everydaytv.top/play-2-7-0.html
 )&emsp;[无线](
