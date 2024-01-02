@@ -5,7 +5,7 @@ https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-FINA_h2
 )&emsp;[无线财](
 http://udnhls.skilldns.com:80/fhzx.m3u8
 )&emsp;[无线](
-https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
 )&emsp;[有线](
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 )&emsp;[新](
