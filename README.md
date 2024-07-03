@@ -1,7 +1,7 @@
 [无线新](
-https://hk4-edge16-1.edgeware.tvb.com/session/45570a40-391c-11ef-9152-0050569023d7/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=bef1e69b8e0e848ff31b57806a660764_1720084294_1720084294&p=3324&mode=admarker%2Cticks
+https://hk4-edge16-1.edgeware.tvb.com/session/cb68a47e-396a-11ef-83e5-005056928c23/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=339e0f2e946f4f41a22f63453782721d_1720118010_1720118010&p=3324&mode=admarker%2Cticks
 )&emsp;[新](
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=108.181.23.41~st=1719990175~exp=1720076575~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=05801ff91d50adba130dd1cdaafc5aa2edb6f5768d2df590d2ca364b7748abd2&p=3139
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=154.16.248.249~st=1720031100~exp=1720117500~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=49d1877831882e01947acc1b1b7d7c0badfd126f9361e787fad129c3c3f118ae&p=3139
 )&emsp;[无线财](
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 )&emsp;[无线](
