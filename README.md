@@ -1,7 +1,7 @@
 [无线新](
-https://hk4-edge16-1.edgeware.tvb.com/session/f43d58c0-3f1f-11f0-a8bf-005056903a13/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=9bfdbd538e254454baa63ac34d6a8b33_1751398681_1751398681&p=3324&mode=admarker%2Cticks
+https://hk4-edge33-1.edgeware.tvb.com/session/bd948aea-3fde-11f0-8082-005056b1026a/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=e75f1ede5b1a97224e0d7c3f570012bf_1751480622_1751480622&p=3324&mode=admarker%2Cticks
 )&emsp;[新](
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=216.234.140.4~st=1748805288~exp=1751397288~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=d5f6482e4b6a405abd109a294a8e910525c5cc024028fe115f3e1855fc8da717&p=3139
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=216.234.141.17~st=1748888241~exp=1751480241~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=c07836ef782dd11bc8be6a31f4226a0eab40def9b63308d5c5c901f988dd6b8d&p=3139
 )&emsp;[无线财](
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 )&emsp;[无线](
