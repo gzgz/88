@@ -1,5 +1,5 @@
 [无线新](
-https://hk4-edge15-1.edgeware.tvb.com/session/bd716ddc-1416-11f1-b05a-00505692d62f/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=dfa950f51b77c6dd88098a5243cfb9e5_1774814301_1774814301&p=3324&mode=admarker%2Cticks
+https://hk4-edge16-1.edgeware.tvb.com/session/71045e02-1478-11f1-8ca6-00505692d62f/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=eee09159f1053b44fa6d2f4596788af1_1774856289_1774856289&p=3324&mode=admarker%2Cticks
 )&emsp;[新](
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=88.218.78.132~st=1772221807~exp=1774813807~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=302af6791fa032f503a2f5e08492d3fab7e84a39e7cfa1e4cf7a1e8cb1c0e767&p=3139
 )&emsp;[无线财](
