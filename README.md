@@ -1,7 +1,7 @@
 [无线新](
 https://hk4-edge15-1.edgeware.tvb.com/session/7bf31ac4-31ec-11f1-968c-0050569d05c1/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=80f0af66979a106d2d0247bea1db448f_1778094609_1778094609&p=3324&mode=admarker%2Cticks
 )&emsp;[新](
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=88.218.78.132~st=1775502092~exp=1778094092~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=e026ef0fae58cba45bd767658ef9d325b64042ac70286ce2564214a6b8eda1c9&p=3139
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=104.28.155.219~st=1775591792~exp=1778183792~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=f35339e2eacb5e1f209a1ebd385dd847b4aa2a8394c9be2c5df439507aaa4cde&p=3139
 )&emsp;[无线财](
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 )&emsp;[无线](
