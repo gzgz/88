@@ -3,9 +3,9 @@ https://hk4-edge15-1.edgeware.tvb.com/session/ea68446c-38f8-11f1-b5ee-005056903a
 )&emsp;[新](
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=172.233.73.124~st=1776275325~exp=1778867325~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=dbb2fe0a24b79ef61d0d5e5cb26a5d444177ebce47f073135bfa001180693936&p=3139
 )&emsp;[无线财](
-https://w13.881903.com/edge-ts/881hd/chunks.m3u8?sessionId=8qk64WFPDCR1ghdrS6GlnvEb&r=A7pgj3igGwIP9z5u&ri=195178106a55fc8204da&t=1776416473.1.NxVu6tnFEttLtNzn6PVSo2Tiwz4HE0sVedjxvDJCI2E
+http://4747d9.netsite.cc/proxy/1650326537/1650326537.m3u8
 )&emsp;[无线](
-https://w13.881903.com/edge-ts/903hd/chunks.m3u8?sessionId=SLatG0tteFudi0-t4dyiuz_I&r=VLDZB6P1dhVwcYt7&ri=f26a220d16821e133e5a&t=1776415748.1.rWFSOuHr6loBnPBaWPa6RZlZSq-wzOiSaHJMfAGGDR8
+http://4747d9.netsite.cc/proxy/1650326537/1650326537.m3u8
 )&emsp;[有线](
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 )&emsp;[新](
